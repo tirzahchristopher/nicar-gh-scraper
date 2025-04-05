@@ -33,6 +33,13 @@ warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_co
           Solutions
           (Woodstock
           JCC)","10900 Old Court Road Baltimore Woodstock, MD 21163",Baltimore County,117,4/01/2025,Plant Closure
+1/29/2025,541380,"Charles River
+Laboratories,
+Inc.","15 Wormans Mill
+Court, Suite I
+Frederick, MD
+21701
+(Maryland PAI site)",Frederick,7,3/28/2025,Plant Closure
 1/31/2025,445110,Safeway Store 3257,"1800 Rockville Pike
           Rockville, MD 20852",Montgomery County,85,4/05/2025,Plant Closure
 2/3/2025,541611,"DAI Global, LLC","7600 Wisconsin Avenue, Suite 200 Bethesda, MD 20814",Montgomery County,382,2/3/2025,Mass Layoff - Temporary
@@ -287,3 +294,21 @@ Recall"
       (HHS)Â","Â 
       Silver Spring, MDÂ",MontgomeryÂ,650,5/30/2025,"Mass Layoff - No 
       Recall"
+4/02/2025,541715,Leidos,"5202 Presidents
+Court, Suite 110
+Frederick, MD
+21703",Frederick,16,6/01/2025,"Mass Layoff - No
+Recall"
+4/02/2025,541380,"Charles River
+Laboratories,
+Inc.","15 Wormans Mill
+Court, Suite 1
+Frederick, MD
+21701",Frederick,13,3/28/2025,Plant Closure
+4/03/2025,541720,"American
+Institutes of
+Research (AIR)","6003 Executive
+Blvd, 3rd Floor
+Rockville, MD
+20852",Montgomery County,12,6/01/2025,"Mass Layoff - No
+Recall"
