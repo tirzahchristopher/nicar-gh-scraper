@@ -1,103 +1,110 @@
 warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_code
+03/13/2026,561210,"Bering Global Solutions, LLC (BGS) - CBD","5813 Bayside Rd
+Chesapeake Beach, MD 20732",Southern Maryland,21,03/31/2026,Mass Layoff - No Recall
+03/13/2026,561210,"Bering Global Solutions, LLC (BGS) - Carderock","9500 Macarthur Blvd.
+Bethesda, MD 20817",Montgomery County,6,03/31/2026,Mass Layoff - No Recall
+03/13/2026,561210,"Bering Global Solutions, LLC (BGS) - Bethesda","8901 Rockville Pike
+Bethesda, MD 20889",Montgomery County,5,03/31/2026,Mass Layoff - No Recall
 03/11/2026,424470,United Source One,"4610 Mercedes Drive, Suite 110
-Belcamp, MD 21017",Susquehanna,8,03/04/2026,Mass Layoff - No Recall
+                  Belcamp, MD 21017",Susquehanna,8,03/04/2026,Mass Layoff - No Recall
 03/09/2026,541330,Amentum,"10530 Riverview Road
-Fort Washington, MD 20744",Prince Georgeâs,9,05/03/2026,Mass Layoff - No Recall
+                  Fort Washington, MD 20744",Prince Georgeâs,9,05/03/2026,Mass Layoff - No Recall
 03/09/2026,541330,Amentum,"4251 Suitland Road
-Suitland, MD 20746",Prince Georgeâs,27,05/03/2026,Mass Layoff - No Recall
+                  Suitland, MD 20746",Prince Georgeâs,27,05/03/2026,Mass Layoff - No Recall
 03/09/2026,325412,"Horizon Therapeutics USA, Inc.","9605 Medical Center Drive, Suite 325
-Rockville, MD 20850",Montgomery County,22,05/08/2026,Mass Layoff - No Recall
+                  Rockville, MD 20850",Montgomery County,22,05/08/2026,Mass Layoff - No Recall
 03/06/2026,458110,Saks & Company LLC,"5555 Wisconsin Avenue
-Chevy Chase, MD 20815",Montgomery County,75,05/06/2026 - 05/31/2026,Plant Closure
+                  Chevy Chase, MD 20815",Montgomery County,75,05/06/2026 - 05/31/2026,Plant Closure
 03/06/2026,611430,C2 Technologies,"7601 Lewinsville Road, Suite 200
-McLean, Virginia 22102",Statewide,1,03/06/2026,Mass Layoff - No Recall
+                  McLean, Virginia 22102",Statewide,1,03/06/2026,Mass Layoff - No Recall
 03/03/2026,335129,Excelitas,"910 Clopper Road
-Gaithersburg, MD 20878",Montgomery County,30,05/15/2026 - 10/31/2026,Mass Layoff - No Recall
+                  Gaithersburg, MD 20878",Montgomery County,30,05/15/2026 - 10/31/2026,Mass Layoff - No Recall
 03/02/2026,711110,"IPIC Theaters, LLC","11830 Grand Park Avenue
-North Bethesda, MD 20852",Montgomery County,116,04/28/2026,Plant Closure
+                  North Bethesda, MD 20852",Montgomery County,116,04/28/2026,Plant Closure
 2/24/2026,333413,Viskon-Aire Corporation,"410 Winfield Avenue
-Salisbury, MD 21801",Lower Shore,51,04/13/2026- 09/30/2026,Plant Closure
+                  Salisbury, MD 21801",Lower Shore,51,04/13/2026- 09/30/2026,Plant Closure
 2/23/2026,492210,Duality Ventures LLC,"16604 Industrial Lane
-Williamsport, MD 21795",Western Maryland,98,03/21/2026,Plant Closure
+                  Williamsport, MD 21795",Western Maryland,98,03/21/2026,Plant Closure
 02/19/2026,487210,"Hornblower Cruises and Events, LLC","575 S. Charles Street, Suite 506, Baltimore, MD 21201",Baltimore City,51,04/25/2026,Mass Layoff - No Recall
 02/19/2026,325412,"Catalent
-Maryland, Inc.","7555 Harmans
-Road
-Harmans, MD
-21077",Anne Arundel County,93,04/19/2026,Mass Layoff - No Recall
+                  Maryland, Inc.","7555 Harmans
+                  Road
+                  Harmans, MD
+                  21077",Anne Arundel County,93,04/19/2026,Mass Layoff - No Recall
 02/19/2026,325412,"Catalent
-Maryland, Inc.","801 West
-Baltimore Street
-Suite 302
-Baltimore, MD
-21201",Baltimore City,3,04/19/2026,Mass Layoff - No Recall
+                  Maryland, Inc.","801 West
+                  Baltimore Street
+                  Suite 302
+                  Baltimore, MD
+                  21201",Baltimore City,3,04/19/2026,Mass Layoff - No Recall
 02/17/2026,424820,Breakthru Beverage Group,"525 Progress Drive, Suite K, Linthicum Heights, MD 21090",Anne Arundel County,35,04/18/2026,Mass Layoff - No Recall
 02/17/2026,444110,"Loweâs Companies, Inc.","1000 Loweâs Blvd.
-Mooresville, NC
-28117",Statewide,5 (Remote workers in MD),04/19/2026 - 05/01/2026,Mass Layoff - No Recall
+                  Mooresville, NC
+                  28117",Statewide,5 (Remote workers in MD),04/19/2026 - 05/01/2026,Mass Layoff - No Recall
 02/12/2026,523940,T. Rowe Price,"1307 Point Street
-Baltimore, MD 21231",Baltimore City,54,02/06/2026,Mass Layoff - No Recall
+                  Baltimore, MD 21231",Baltimore City,54,02/06/2026,Mass Layoff - No Recall
 02/09/2026,484110,"Savage
-Infrastructure
-LLC","354 Table Rock
-Road
-Oakland, MD
-21550",Western Maryland,72,04/07/2026 - 04/21/2026,Plant Closure
+                  Infrastructure
+                  LLC","354 Table Rock
+                  Road
+                  Oakland, MD
+                  21550",Western Maryland,72,04/07/2026 - 04/21/2026,Plant Closure
 02/06/2026,561311,"LifeBridge Suburban Staffing, LLC","2850 N. Ridge Road
-Ellicott City, MD",Howard County,23,03/07/2026- 04/06/2026,"Plant Closure  Note: Work performed at Ellicott City Ambulatory Surgery Center, L.L.L.P)"
+                  Ellicott City, MD",Howard County,23,03/07/2026- 04/06/2026,"Plant Closure
+                   Note: Work performed at Ellicott City Ambulatory Surgery Center, L.L.L.P)"
 02/04/2026,484121,"NFI Interactive Technologies, LLC (NFI)","81 Belvedere Road Perryville, MD 21903",Susquehanna,40,03/30/2026,Plant Closure
 02/04/2026,561499,"HGS CX Technologies, Inc. f/k/a HGS USA","12120 Rojas Drive El Paso, Texas",Statewide,92,03/31/2026 -04/14/2026,Mass Layoff - No Recall
 02/02/2026,541715,"Charles River
-Laboratories,
-Inc.","3600 Cabover
-Drive
-Hanover MD
-21076",Anne Arundel County,20,03/23/2026,Plant Closure
+                  Laboratories,
+                  Inc.","3600 Cabover
+                  Drive
+                  Hanover MD
+                  21076",Anne Arundel County,20,03/23/2026,Plant Closure
 01/30/2026,523920,"MUFG Investor
-Services (US),
-LLC (MUIS)","805 King Farm
-Boulevard, Suite
-600
-Rockville,MD
-20850",Montgomery County,86,"03/31/2026 -
-06/30/2025","Mass Layoff - No
-Recall"
+                  Services (US),
+                  LLC (MUIS)","805 King Farm
+                  Boulevard, Suite
+                  600
+                  Rockville,MD
+                  20850",Montgomery County,86,"03/31/2026 -
+                  06/30/2025","Mass Layoff - No
+                  Recall"
 01/29/2026,458110,Saks & Company LLC,"22705 Clarksburg Road
-Clarksburg, MD 20871",Montgomery County,15,04/30/2026,Plant Closure
+                  Clarksburg, MD 20871",Montgomery County,15,04/30/2026,Plant Closure
 01/29/2026,458110,Saks & Company LLC,"7000 Arundel Mills Circle
-Hanover, MD 21076",Anne Arundel County,16,04/30/2026,Plant Closure
+                  Hanover, MD 21076",Anne Arundel County,16,04/30/2026,Plant Closure
 01/28/2026,454110,Amazon - MAF1 facility,"5463 Wisconsin Ave.
-Chevy Chase, MD 20815",Montgomery County,129,04/28/2026,Plant Closure
+                  Chevy Chase, MD 20815",Montgomery County,129,04/28/2026,Plant Closure
 01/28/2026,454110,Amazon - MAG5 facility,"8525 Chevy Chase Lake Terrace
-Chevy Chase, MD 20815",Montgomery County,118,04/28/2026,Plant Closure
+                  Chevy Chase, MD 20815",Montgomery County,118,04/28/2026,Plant Closure
 01/28/2026,454110,Amazon - MAH5 facility,"15790 Shady Grove Road
-Gaithersburg, MD
-20877",Montgomery County,155,04/28/2026,Plant Closure
+                  Gaithersburg, MD
+                  20877",Montgomery County,155,04/28/2026,Plant Closure
 01/28/2026,454110,Amazon - MAT8 facility,"6711 Ritchie Highway
-Glen Burnie, MD
-21061",Anne Arundel County,156,04/28/2026,Plant Closure
+                  Glen Burnie, MD
+                  21061",Anne Arundel County,156,04/28/2026,Plant Closure
 01/28/2026,454110,Amazon - MAV2 facility,"12263 Prosperity Drive
-Silver Spring, MD 20904",Montgomery County,184,04/28/2026,Plant Closure
+                  Silver Spring, MD 20904",Montgomery County,184,04/28/2026,Plant Closure
 01/15/2026,445110,Weis Store #291,"15300 McMullen
-Highway
-Cumberland, MD
-21502",Western Maryland,52,03/16/2026,Plant Closure
+                  Highway
+                  Cumberland, MD
+                  21502",Western Maryland,52,03/16/2026,Plant Closure
 01/14/2026,444110,"Home Depot
-Design Center","12087 Rockville
-Pike
-Rockville, MD
-20852","Montgomery
-County",85,03/14/2026,Plant Closure
+                  Design Center","12087 Rockville
+                  Pike
+                  Rockville, MD
+                  20852","Montgomery
+                  County",85,03/14/2026,Plant Closure
 01/14/2026,518210,Peraton,"6201 Security
-Blvd
-Woodlawn, MD
-21207","Baltimore
-County",35,02/28/2026,Mass Layoff - No Recall
+                  Blvd
+                  Woodlawn, MD
+                  21207","Baltimore
+                  County",35,02/28/2026,Mass Layoff - No Recall
 1/2/2026,541512,"BAE Systems,
-Inc.","306 Sentinel
-Drive, Suite 500,
-Annapolis
-Junction, MD
-20701","Anne Arundel
-County",55,"03/02/2026 -
-04/02/2026",Mass Layoff - No Recall
+                  Inc.","306 Sentinel
+                  Drive, Suite 500,
+                  Annapolis
+                  Junction, MD
+                  20701","Anne Arundel
+                  County",55,"03/02/2026 -
+                  04/02/2026",Mass Layoff - No Recall
