@@ -1,4 +1,7 @@
 warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_code
+07/24/2026,334220,EchoStar Corporation (Lakewood facility),"100 Lakeforest Blvd.Gaithersburg, MD 20877",Montgomery County,42,09/22/2026,Mass Layoff - No Recall
+07/24/2026,334220,EchoStar Corporation (Germantown EXM facility),"11717 Exploration LaneGermantown, MD 20876",Montgomery County,48,09/22/2026,Mass Layoff - No Recall
+07/24/2026,334220,EchoStar Corporation (Germantown EXP facility),"19710 Observation DriveGermantown, MD 20876",Montgomery County,240,09/22/2026,Mass Layoff - No Recall
 07/24/2026,541611,RP Professional Services LLC,"44927 George
 Washington Blvd. Ashburn, VA 20147",Statewide,"4(Remote workers in
 MD)",09/24/2026,Mass Layoff - No Recall
@@ -20,7 +23,7 @@ Germantown,
 MD 20874","Montgomery
 County",32,08/31/2026,"Mass Layoff - No
 Recall"
-07/01/2026,456199,"Kirson Medial
+07/01/2026,456199,"Kirson Medical
 LLC","8801 Kelso Drive Essex, MD 21221",Baltimore County,20,07/26/2026,Plant Closure
 06/29/2026,561990,"Conduent Commercial Solutions, LLC","100 Campus Drive 
 Florham Park, NJ 07932",Statewide,5 (Remote workers in MD),08/28/2026,Mass Layoff - No Recall
